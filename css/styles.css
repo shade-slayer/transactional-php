@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 /*body section design starts here*/
 /*Global Framework*/
 
@@ -56,7 +56,7 @@ p{
 }
 
 body{
-  font-family: "proxima-nova",sans-serif;
+  font-family: 'Open Sans',"proxima-nova",sans-serif;
   background-color: rgb(255, 255, 255);
   text-rendering:auto;
   -webkit-font-smoothing:antialiased;
@@ -300,7 +300,9 @@ header{
 }
 .feature-hero-image-1{
   position: relative;
-  top: 180px;
+  top: 40px;
+  margin-right: 66px;
+  padding-right: 24px;
 }
 
 /*****#######Stats Container Style######*******/
@@ -804,6 +806,10 @@ box-shadow: 1px 12px 32px -1px rgba(0,0,0,0.2);
 
 /*Desktop Responsive*/
 @media only screen and (min-width : 320px) and (max-width : 750px) {
+  .hero-content .hero-head-text{
+    font-size: 2.6em;
+    line-height: 1.3em;
+  }
   /*benefits container mobile*/
   .benefits-content-row{
     display: block;

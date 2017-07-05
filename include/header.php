@@ -12,8 +12,7 @@
 
 
   <!-- Font Family Embedded !-->
-  <script src="https://use.typekit.net/dew0xqq.js"></script>
-  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 
   <!--Google Analytics Script!-->
   <script>
