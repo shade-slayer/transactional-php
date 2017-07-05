@@ -54,7 +54,7 @@
               <span class="icon-bar"></span>
             </button>
             !-->
-        <a class="navbar-brand " href="index">
+        <a class="navbar-brand " href="http://www.transactionalsms.services">
               <i><img class="" src="asset/images/textlocal-logo.svg" alt="text local logo" /></i>transactionalSMS
             </a>
       </div>
@@ -68,7 +68,7 @@
             <!--
                 <li><a href="about.html">About Us</a></li>!-->
             <li>
-              <buton class="btn sign-up-button btn-block navbar-btn cute-btn " href="hire-me.html" onclick="location.href='https://control.textlocal.in?tlrx=transactionalsms.com';">Log In</buton>
+              <buton class="btn sign-up-button btn-block navbar-btn cute-btn " onclick="location.href='https://control.textlocal.in?tlrx=transactionalsms.com';">Log In</buton>
             </li>
           </ul>
         </div>
