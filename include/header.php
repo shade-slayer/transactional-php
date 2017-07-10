@@ -53,7 +53,7 @@
               <span class="icon-bar"></span>
             </button>
             !-->
-        <a class="navbar-brand " href="http://www.transactionalsms.services">
+        <a class="navbar-brand " href="https://transactionalsms.herokuapp.com/">
               <i><img class="" src="asset/images/textlocal-logo.svg" alt="text local logo" /></i>transactionalSMS
             </a>
       </div>
