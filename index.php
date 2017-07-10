@@ -219,7 +219,7 @@ Configure unlimited Sender IDs at no extra cost and enhance your brand identity.
 
   <div class="row benefits-content-row benefits-transactional-row">
     <div class="col-md-6 visible-xs visible-sm benefits-content-illustratons">
-      <img src="asset/images/benefits/api-integration.png" class="img-responsive" />
+      <img src="asset/images/benefits/api-integration.png" class="img-responsive " />
     </div>
     <div class="col-md-6 benefits-column-content ">
       <h2>Wide range of integration options</h2>
@@ -229,7 +229,7 @@ Configure unlimited Sender IDs at no extra cost and enhance your brand identity.
       </p>
       <a class="btn green-btn" href="https://api.textlocal.in/docs?tlrx=transactionalsms.com">GO TO API DOCs</a>
     </div>
-    <div class="col-md-6 hidden-xs hidden-sm benefits-content-illustratons">
+    <div class="col-md-6 hidden-xs hidden-sm benefits-content-illustratons ">
       <img src="asset/images/benefits/api-integration.png" class="img-responsive" />
     </div>
   </div>
