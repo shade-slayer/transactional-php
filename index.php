@@ -14,10 +14,13 @@
           <!--Intro Jumbotron Design Starts Here!-->
 
           <div class="container jumbotron-container">
-              <div class="col-md-8 col-md-offset-2 text-center hero-content">
+              <div class="col-md-12 text-center hero-content">
 
-                  <div>
-                      <h1 class="hero-head-text">Write Something <span class="typewrite hero-head-text-typewriter " data-period="2000" data-type='["Simple.", "Short.","Awesome." ]'></span> </h1>
+                  <div class="hidden-xs   hidden-sm">
+                      <h1 class="hero-head-text">Send <span class="typewrite hero-head-text-typewriter " data-period="4000" data-type='["OTPs", "Alerts","Reminders","Notifications" ]'></span> with unmatched delivery </h1>
+                  </div>
+                  <div class="visible-xs hidden-md visible-sm hidden-md hidden-lg">
+                      <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform </h1>
                   </div>
 
               <!--  <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform</h1>!-->
@@ -32,7 +35,7 @@
                      <div class="form-group col-md-6 input-group-lg hero-input-group">
                        <input type="text" class="form-control" placeholder="Enter your email address">
                      </div>!-->
-                     <div class="col-md-8 col-md-offset-2">
+                     <div class="col-md-4 col-md-offset-4">
                        <button onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';" class="btn btn-block btn-lg input-get-start-btn cute-btn"><strong>Get Started Now</strong></button>
                        <h5 class="hero-input-info-text">
                           Free trial with 10 test credits, no credit card required.

@@ -26,9 +26,6 @@
 
   </script>
 
-  <script type="text/javascript" src="script/jquery-3.1.1.min.js"></script>
-  <script type="text/javascript" src="script/typed.js"></script>
-
   <link rel="stylesheet" href="css/bootstrap.css" />
   <link rel="stylesheet" href="css/styles.css" />
   <link rel="stylesheet" href="css/font-awesome.css" />

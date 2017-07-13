@@ -1,8 +1,8 @@
 <!--Footer Container starts Here!-->
 <div class="container-fluid footer-fluid-container">
-  <!--
+
   <div class="container footer-container">
-    <div class="row footer-content-row">
+    <!--  <div class="row footer-content-row">
       <div class="col-md-3 footer-content-column">
         <a href="https://www.textlocal.in"><img class="footer-logo" style="width:42px;" src="asset/images/logo-icon.png"  /></a>
         <p>
@@ -42,24 +42,23 @@
         <p class="footer-link"><a href="#">For Startups</a></p>
       </div>
     </div>
-
+  !-->
     <div class="footer-copyright-row">
       <div class="col-md-4">
         <p>
-          © copyright 2017 <a href="#">IMImobile</a>. All rights reserved.
+          © copyright 2017 <a href="https://imimobile.com/?tlrx=transactionalsms.com#">IMImobile</a>. All rights reserved.
         </p>
       </div>
       <div class="col-md-8 text-right ">
-        <a class="footer-copyright-link" href="#">Sitemap</a>
-        <a class="footer-copyright-link" href="#">Terms</a>
-        <a class="footer-copyright-link" href="#">Privacy</a>
-        <a class="footer-copyright-link" href="#">Acceptable Use Policy</a>
-        <a class="footer-copyright-link" href="#">Cookies Policy</a>
+        <a class="footer-copyright-link" href="terms">Terms</a>
+        <a class="footer-copyright-link" href="privacy">Privacy</a>
+        <a class="footer-copyright-link" href="acceptable-use-policy">Acceptable Use Policy</a>
+        <a class="footer-copyright-link" href="cookie-policy">Cookie Policy</a>
       </div>
     </div>
 
   </div>
-  !-->
+
 </div>
 
 <!--Script section starts Here!-->
