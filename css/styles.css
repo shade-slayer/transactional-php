@@ -50,6 +50,12 @@ p{
   font-size: 1.3em;
   line-height: 1.6em;
 }
+p::-moz-selection{
+  background-color: rgba(0,189,147,1);
+}
+p::selection {
+  background-color: rgba(0,189,147,1);
+}
 .text-bottom-border{
   color: rgba(0,189,147,1);
   border-bottom: 2px solid rgba(0,189,147,1);
@@ -140,6 +146,7 @@ h1,h2,h3,h4,h5{
 }
 .navbar-toggle{
   border: none;
+  margin-top: 16px;
 }
 .navbar-default .navbar-nav > li > a{
   color:rgba(255,255,255,1);
@@ -194,7 +201,7 @@ h1,h2,h3,h4,h5{
   border: 1px solid rgba(0,0,0,.0);
   color: rgba(255,255,255,1) ;
   transition: all 0.2s ease-in;
-  background-color: rgba(40,189,147,1);
+  background-color: rgba(13, 124, 102, 1);
 }
 header{
   background-image: -webkit-linear-gradient(42deg, #089677 2%, #00BD7F 100%);
@@ -219,16 +226,21 @@ header{
 .hero-content .hero-head-text{
   font-size: 3.5em;
   line-height: 1.3em;
-  font-weight: 900;
+  font-weight: 700;
   color: rgba(255,255,255,1);
+}
+/*Hero Head Typewriter*/
+
+.hero-head-text-typewriter{
+  color: rgba(10, 108, 89, 1);
 }
 .input-get-start-btn{
   height: 58px;
   border-radius: 2px;
   align-items: center;
   color: white;
-  background-color: rgba(16,140,116,1);
-  transition: all 0.2s ease-in;
+  background-color: rgba(10, 108, 89, 1);
+  transition: all 0.3s ease-in;
   box-shadow: 0 16px 18px 0 rgba(0,0,0,0.13), 0 4px 6px 0 rgba(0,0,0,0.16);
 
 }
@@ -240,7 +252,7 @@ header{
 }
 .input-get-start-btn:hover,  .input-get-start-btn:focus {
   color: white;
-  background-color: rgba(0,170,140,1);
+  background-color: rgba(13, 124, 102, 1);
   transition: all 0.2s ease-in;
 }
 .form-control{
@@ -312,7 +324,7 @@ header{
 }
 .stats-container h2{
   color: rgba(255,255,255,1);
-  font-weight: 900;
+  font-weight: 600;
 }
 .stats-container h4{
   color: rgba(255,255,255,.9);
@@ -513,7 +525,7 @@ box-shadow: 0px 0px 12px 0px rgba(0,0,0,0.2);
   color: rgba(255,255,255,1);
 }
 .final-call-to-action-fluid-container .btn{
-  background-color: rgba(33, 167, 129, 1);
+  background-color: rgba(13, 124, 102, 1);
 }
 
 /***#############
@@ -541,8 +553,9 @@ box-shadow:         0px 0px 5px 0px rgba(0,0,0,0.1);
 }
 .question{
   cursor: pointer;
-  color:rgba(120,120,120,1);
-  font-weight:500;
+  color:rgba(100,100,100,1);
+  font-weight:600;
+  line-height: 1.8em;
   opacity:.9;
 }
 .question:hover{

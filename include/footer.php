@@ -64,6 +64,7 @@
 
 <!--Script section starts Here!-->
 <script type="text/javascript" src="script/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="script/typed.js"></script>
 <script type="text/Javascript" src="script/jquery.lazyload.js"></script>
 <script type="text/javascript" src="script/bootstrap.js"></script>
 <script type="text/javascript" src="script/my-script.js"></script>

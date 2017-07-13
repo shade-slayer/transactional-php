@@ -125,6 +125,19 @@
               position: uluru,
               map: map
             });
+
+            //hide nearby points
+            var styles = [
+              {
+                featureType: "poi",
+                elementType: "business",
+                stylers: [
+                  { visibility: "off" }
+                ]
+              }
+            ];
+
+            map.setOptions({styles: styles});
           }
         </script>
         <script async defer

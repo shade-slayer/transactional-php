@@ -4,6 +4,7 @@
 
 <?php include 'include/header.php';?>
 
+
 <header>
       <!--background video design starts here!-->
         <div class="header-video-container">
@@ -11,10 +12,15 @@
          <!--<video src="asset/videos/our-story.mp4" type="video/mp4" loop="loop" autoplay="true" poster="posterimage.jpg"></video>
           !--></div>
           <!--Intro Jumbotron Design Starts Here!-->
-          <div class="container jumbotron-container">
 
+          <div class="container jumbotron-container">
               <div class="col-md-8 col-md-offset-2 text-center hero-content">
-                <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform</h1>
+
+                  <div>
+                      <h1 class="hero-head-text">Write Something <span class="typewrite hero-head-text-typewriter " data-period="2000" data-type='["Simple.", "Short.","Awesome." ]'></span> </h1>
+                  </div>
+
+              <!--  <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform</h1>!-->
                 <p class="lead text-center">
                    Best-In-Class Delivery. Powerful APIs. Fanatic Customer Support.
                 </p>
@@ -26,7 +32,7 @@
                      <div class="form-group col-md-6 input-group-lg hero-input-group">
                        <input type="text" class="form-control" placeholder="Enter your email address">
                      </div>!-->
-                     <div class="col-md-6 col-md-offset-3">
+                     <div class="col-md-8 col-md-offset-2">
                        <button onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';" class="btn btn-block btn-lg input-get-start-btn cute-btn"><strong>Get Started Now</strong></button>
                        <h5 class="hero-input-info-text">
                           Free trial with 10 test credits, no credit card required.
@@ -343,30 +349,30 @@ Landing Page FAQs
   </div>
   <div class="col-md-12 faq-column">
   <div class="question-answer-div">
-    <h3 class="question">
+    <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
      How do businesses use bulk SMS?
-    </h3>
+   </h4>
     <p class="answer">
       ‘Bulk SMS’ or ‘bulk messaging’ refers to businesses sending SMS to one or more recipients via software platforms such as Textlocal. Bulk SMS can scale up to millions of recipients in the case of informational or promotional broadcasts.
     </p>
   </div>
   <!--another question starts here!-->
   <div class="question-answer-div">
-    <h3 class="question">
+    <h4 class="question">
       <i class="fa faq-expand-icon  fa-angle-right "></i>
       Why should businesses use bulk SMS?
-    </h3>
+    </h4>
     <p class="answer">
       In today’s mobile world, SMS beats all the other channels hands down with 97% open rates (vs 10%-30% open rates for email and social media channels) and ten times the response rate. By embedding actionable links within the message, bulk SMS can even help improve conversion rates across the customer lifecycle - acquisition, engagement and retention.
     </p>
   </div>
   <!--another question starts here!-->
   <div class="question-answer-div">
-    <h3 class="question">
+    <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
     What is an SMS gateway?
-    </h3>
+  </h4>
     <p class="answer">
       An SMS gateway is the means through which a computer can send or receive SMS messages. Often allowing for the conversion and sending of other forms of media or message (such as email), SMS gateways will generally utilise the same mobile phone networks as the messages sent from mobile phones.
     </p>
@@ -374,10 +380,10 @@ Landing Page FAQs
 
   <!--another question starts here!-->
   <div class="question-answer-div">
-    <h3 class="question">
+    <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
     Who can use Textlocal services?
-    </h3>
+  </h4>
     <p class="answer">
       Any Indian business, society or community group can use Textlocal to reach out to customers, staff or friends with SMS, instantly connecting to people where ever they are. With different levels of service, there's something to suit an organisation regardless of size.
     </p>
