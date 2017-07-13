@@ -94,9 +94,9 @@ Navbar Full Screen Test
 				</div>
 				<div class="modal-body text-center">
           <ul class="nav navbar-nav">
-            <li class=""><a href="pricing.html">Pricing</a></li>
-            <li><a href="resources.html">Resources</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li class=""><a href="pricing">Pricing</a></li>
+            <li><a href="resources">Resources</a></li>
+            <li><a href="contact">Contact</a></li>
             <li><a href="https://control.textlocal.in?tlrx=transactionalsms.com">Log In</a></li>
             <!--
                 <li><a href="about.html">About Us</a></li>!-->
