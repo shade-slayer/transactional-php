@@ -5,6 +5,9 @@
 
 <?php include 'include/header.php';?>
 
+
+
+
 <!--Header design starts here!-->
       <header>
         <!--background video design starts here!-->
@@ -19,6 +22,8 @@
       </div>
     </div>
   </header>
+
+
   <!--contact elements!-->
   <div class="container contact-label-container">
     <div class="row contact-cover-row">
@@ -97,6 +102,17 @@
 
   </div>
 
+  <!---
+  Image slider
+  !-->
+  <div class="image-slides container-fluid">
+  <div><img class="img-responsive" src="asset/images/contact-page-team-photo-1.jpg" alt="team photo"></div>
+  <div><img class="img-responsive" src="asset/images/contact-page-team-photo-5.jpg" alt="team photo"></div>
+  <div><img class="img-responsive" src="asset/images/contact-page-team-photo-4.jpg" alt="team photo"></div>
+  <div><img class="img-responsive" src="asset/images/contact-page-team-photo-3.jpg" alt="team photo"></div>
+  <div><img class="img-responsive" src="asset/images/contact-page-team-photo-6.jpg" alt="team photo"></div>
+</div>
+
   <div class="container visit-our-container">
 
       <div class="col-md-12">
@@ -146,6 +162,7 @@
 
     </div>
   </div>
+
 
 <!--final call to action section include !-->
 <?php include 'include/final-call-to-action.php';?>

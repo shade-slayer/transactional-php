@@ -50,6 +50,7 @@
         </p>
       </div>
       <div class="col-md-8 text-right ">
+        <a class="footer-copyright-link" href="transactionalsms-vs-promotionalsms">Transactional SMS vs Promotional SMS</a>
         <a class="footer-copyright-link" href="terms">Terms</a>
         <a class="footer-copyright-link" href="privacy">Privacy</a>
         <a class="footer-copyright-link" href="acceptable-use-policy">Acceptable Use Policy</a>
@@ -63,7 +64,7 @@
 
 <!--Script section starts Here!-->
 <script type="text/javascript" src="script/jquery-3.1.1.min.js"></script>
-<script type="text/javascript" src="script/typed.js"></script>
+<script type="text/javascript" src="script/slick.js"></script>
 <script type="text/Javascript" src="script/jquery.lazyload.js"></script>
 <script type="text/javascript" src="script/bootstrap.js"></script>
 <script type="text/javascript" src="script/my-script.js"></script>

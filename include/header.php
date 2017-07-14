@@ -29,6 +29,7 @@
   <link rel="stylesheet" href="css/bootstrap.css" />
   <link rel="stylesheet" href="css/styles.css" />
   <link rel="stylesheet" href="css/font-awesome.css" />
+  <link rel="stylesheet" href="css/slick.css" />
   <link rel="shortcut icon" type="image/png" href="asset/images/logo-green.png" />
 </head>
 
@@ -64,11 +65,12 @@
             <li class=""><a href="pricing">Pricing</a></li>
             <li><a href="resources">Resources</a></li>
             <li><a href="contact">Contact</a></li>
-            <li><a href="https://control.textlocal.in?tlrx=transactionalsms.com">Log In</a></li>
+            <!--
+            <li><a href="https://control.textlocal.in?tlrx=transactionalsms.com">Log In</a></li>!-->
             <!--
                 <li><a href="about.html">About Us</a></li>!-->
             <li>
-              <buton class="btn sign-up-button navbar-btn cute-btn " onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';">Get Started</buton>
+              <buton class="btn sign-up-button navbar-btn cute-btn " onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';">Sign Up</buton>
             </li>
           </ul>
         </div>
@@ -94,7 +96,8 @@ Navbar Full Screen Test
             <li class=""><a href="pricing">Pricing</a></li>
             <li><a href="resources">Resources</a></li>
             <li><a href="contact">Contact</a></li>
-            <li><a href="https://control.textlocal.in?tlrx=transactionalsms.com">Log In</a></li>
+            <!--
+            <li><a href="https://control.textlocal.in?tlrx=transactionalsms.com">Log In</a></li>!-->
             <!--
                 <li><a href="about.html">About Us</a></li>!-->
             <li>

@@ -142,7 +142,7 @@ var TxtType = function(el, toRotate, period) {
         this.toRotate = toRotate;
         this.el = el;
         this.loopNum = 0;
-        this.period = parseInt(period, 10) || 2000;
+        this.period = parseInt(period, 1) || 1000;
         this.txt = '';
         this.tick();
         this.isDeleting = false;
@@ -194,3 +194,20 @@ var TxtType = function(el, toRotate, period) {
         css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
         document.body.appendChild(css);
     };
+
+/**************
+Image slider in contact us page
+*****************/
+
+
+$('.image-slides').slick({
+  pauseOnHover: false,
+  pauseOnFocus:false,
+  mobileFirst:true,
+  draggable: true,
+  arrows: false,
+  slidesToShow: 2,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 2000,
+});

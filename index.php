@@ -17,14 +17,17 @@
               <div class="col-md-12 text-center hero-content">
 
                   <div class="hidden-xs   hidden-sm">
-                      <h1 class="hero-head-text">Send <span class="typewrite hero-head-text-typewriter " data-period="4000" data-type='["OTPs", "Alerts","Reminders","Notifications" ]'></span> with unmatched delivery </h1>
+                      <h1 class="hero-head-text">Get Unmatched Delivery For <span class="typewrite hero-head-text-typewriter " data-period="3000" data-type='["OTPs", "Alerts","Reminders","Notifications" ]'></span></h1>
                   </div>
                   <div class="visible-xs hidden-md visible-sm hidden-md hidden-lg">
                       <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform </h1>
                   </div>
 
               <!--  <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform</h1>!-->
-                <p class="lead text-center">
+              <div class="hidden-xs hidden-sm">
+                  <h1 class="small-header-landing-hero-text">Send Transactional SMS With India's #1 SMS Platform </h1>
+              </div>
+                <p class="lead text-center visible-xs hidden-md visible-sm hidden-md hidden-lg">
                    Best-In-Class Delivery. Powerful APIs. Fanatic Customer Support.
                 </p>
 
