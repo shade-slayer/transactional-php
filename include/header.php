@@ -53,7 +53,7 @@
               <span class="icon-bar"></span>
             </button>
             !-->
-        <a class="navbar-brand " href="https://www.transactionalsms.com">
+        <a class="navbar-brand " href="/">
               <i><img class="" src="asset/images/textlocal-logo.svg" alt="text local logo" /></i>transactionalSMS
             </a>
       </div>
