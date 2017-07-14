@@ -53,7 +53,7 @@
               <span class="icon-bar"></span>
             </button>
             !-->
-        <a class="navbar-brand " href="https://transactionalsms.herokuapp.com/">
+        <a class="navbar-brand " href="https://www.transactionalsms.com">
               <i><img class="" src="asset/images/textlocal-logo.svg" alt="text local logo" /></i>transactionalSMS
             </a>
       </div>
@@ -68,7 +68,7 @@
             <!--
                 <li><a href="about.html">About Us</a></li>!-->
             <li>
-              <buton class="btn sign-up-button navbar-btn cute-btn " onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';">Sign Up</buton>
+              <buton class="btn sign-up-button navbar-btn cute-btn " onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';">Get Started</buton>
             </li>
           </ul>
         </div>
