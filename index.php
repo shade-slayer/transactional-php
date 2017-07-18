@@ -17,7 +17,7 @@
               <div class="col-md-12 text-center hero-content">
 
                   <div class="hidden-xs   hidden-sm">
-                      <h1 class="hero-head-text">Get Unmatched Delivery For <span class="typewrite hero-head-text-typewriter " data-period="3000" data-type='["OTPs", "Alerts","Reminders","Notifications" ]'></span></h1>
+                      <h1 class="hero-head-text">Get Unmatched Delivery For  <span class="typewrite hero-head-text-typewriter " data-period="3000" data-type='["OTPs", "Alerts","Reminders","Notifications" ]'></span></h1>
                   </div>
                   <div class="visible-xs hidden-md visible-sm hidden-md hidden-lg">
                       <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform </h1>
@@ -357,41 +357,87 @@ Landing Page FAQs
   <div class="question-answer-div">
     <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
-     How do businesses use bulk SMS?
+     What is Transactional SMS??
    </h4>
     <p class="answer">
-      ‘Bulk SMS’ or ‘bulk messaging’ refers to businesses sending SMS to one or more recipients via software platforms such as Textlocal. Bulk SMS can scale up to millions of recipients in the case of informational or promotional broadcasts.
+      Informational messages like OTPs, order confirmation alerts, reminders, tickets or any informational content sent to registered users is considered as transactional SMS. It should not contain any sort of promotional content. Messages can be sent 24X7 from your own 6-character Sender ID in a Transactional SMS account.
     </p>
   </div>
   <!--another question starts here!-->
   <div class="question-answer-div">
     <h4 class="question">
       <i class="fa faq-expand-icon  fa-angle-right "></i>
-      Why should businesses use bulk SMS?
+      What is the difference between Transactional SMS and Promotional SMS?
     </h4>
     <p class="answer">
-      In today’s mobile world, SMS beats all the other channels hands down with 97% open rates (vs 10%-30% open rates for email and social media channels) and ten times the response rate. By embedding actionable links within the message, bulk SMS can even help improve conversion rates across the customer lifecycle - acquisition, engagement and retention.
-    </p>
+      According to TRAI regulations, SMS messages are sent via two routes – Transactional and Promotional. Check out all the differences between <a href="https://transactionalsms.com/transactionalsms-vs-promotionalsms"> Transactional SMS vs Promotional SMS</a>.</p>
   </div>
   <!--another question starts here!-->
   <div class="question-answer-div">
     <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
-    What is an SMS gateway?
+    What is Textlocal?
   </h4>
     <p class="answer">
-      An SMS gateway is the means through which a computer can send or receive SMS messages. Often allowing for the conversion and sending of other forms of media or message (such as email), SMS gateways will generally utilise the same mobile phone networks as the messages sent from mobile phones.
-    </p>
+    Textlocal is India’s #1 bulk SMS platform with award-winning features. Over 1,65,000 customers choose Textlocal as their preferred bulk SMS service provider.    </p>
   </div>
 
   <!--another question starts here!-->
   <div class="question-answer-div">
     <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
-    Who can use Textlocal services?
+How can I send Transactional SMS using Textlocal?     
   </h4>
     <p class="answer">
-      Any Indian business, society or community group can use Textlocal to reach out to customers, staff or friends with SMS, instantly connecting to people where ever they are. With different levels of service, there's something to suit an organisation regardless of size.
+Your account will be in promotional route by default. For switching to a transactional account, just drop us an email at support@textlocal.in or call us on 040-3085-8602, we’ll guide you through the remaining process.
+    </p>
+  </div>
+        
+        
+  <!--another question starts here!-->
+  <div class="question-answer-div">
+    <h4 class="question">
+    <i class="fa faq-expand-icon  fa-angle-right "></i>
+What is a Sender ID?     
+  </h4>
+    <p class="answer">
+Sender ID or Sender name is a 6-character name/number that appears on mobile phones as the sender of an SMS. For transactional SMS you can select a custom sender name of 6 alphabets related to your business Ex: DM-AMAZON. All promotional SMS go with a randomly assigned 6-digit numbers. EX: AM-619923.
+    </p>
+  </div>
+        
+        
+  <!--another question starts here!-->
+  <div class="question-answer-div">
+    <h4 class="question">
+    <i class="fa faq-expand-icon  fa-angle-right "></i>
+How can I get my own Sender ID?     
+  </h4>
+    <p class="answer">
+You can configure a 6-alphabet sender ID of your choice by submitting a letter of consent with your Sender ID mentioned in it.
+    </p>
+  </div>
+        
+        
+  <!--another question starts here!-->
+  <div class="question-answer-div">
+    <h4 class="question">
+    <i class="fa faq-expand-icon  fa-angle-right "></i>
+Does Textlocal provide APIs?     
+  </h4>
+    <p class="answer">
+Yes! Textlocal offers one of the most comprehensive, flexible and powerful APIs. Check out our <a href="http://api.textlocal.in/docs/">SMS API documentation</a>.
+    </p>
+  </div>
+        
+        
+  <!--another question starts here!-->
+  <div class="question-answer-div">
+    <h4 class="question">
+    <i class="fa faq-expand-icon  fa-angle-right "></i>
+How much does Transactional SMS cost?     
+  </h4>
+    <p class="answer">
+Textlocal offers very affordable pricing for Transactional SMS. You need to buy SMS bundles that start from as low as Rs. 250 + taxes. Check our Transactional SMS pricing. There are no hidden charges as APIs and Sender ID configuration is completely free of cost.
     </p>
   </div>
   </div><!--faq column ending!-->
