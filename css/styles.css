@@ -204,6 +204,7 @@ h1,h2,h3,h4,h5{
   background-color: rgba(13, 124, 102, 1);
 }
 header{
+
   background-image: -webkit-linear-gradient(42deg, #089677 2%, #00BD7F 100%);
   background-image: -o-linear-gradient(42deg, #089677 2%, #00BD7F 100%);
   background-image: linear-gradient(132deg, #089677 2%, #00BD7F 100%);
@@ -537,7 +538,7 @@ Faq's Landing Page
 #######*******/
 .landing-faq-container{
   margin-top: 32px;
-  margin-bottom: 32px;
+  margin-bottom: 120px;
 }
 .landing-faq-container h3{
   color: rgba(82,82,82,1);
@@ -580,27 +581,33 @@ box-shadow:         0px 0px 5px 0px rgba(0,0,0,0.1);
 
 /*****#######Footer Container Style Starts Here######*******/
 .footer-fluid-container{
-  background-color: rgba(245,245,245,1);
+  background-color: rgba(250,250,250,.8);
     padding-bottom: 12px;
 }
 .footer-content-row{
-  border-bottom: 1px solid rgba(150,150,150,1);
-
+  padding-top: 40px;
+  padding-bottom: 16px;
+  border-bottom: 0.6px solid rgba(150,150,150,0.2);
 }
 .footer-content-column{
-  padding-top: 24px;
-  padding-bottom: 24px;
+  padding: 12px 0px;
+}
+.footer-content-column a{
+  color: rgba(110,110,110,1);
 }
 .footer-content-column h5{
   font-size: 1.1em;
 }
 .footer-content-row p{
-  font-size: 0.9em;
+  font-size: 1em;
   color: rgba(110,110,110,1);
 }
 .footer-logo{
-  margin-bottom: 24px;
+  position: relative;
+  top: -6px;
+  width:42px;
 }
+
 .badge-footer-hiring{
   background-color: rgba(40,189,147,1);
   margin-left: 4px;
@@ -608,8 +615,9 @@ box-shadow:         0px 0px 5px 0px rgba(0,0,0,0.1);
   border-radius: 2px;
   font-weight: 400;
 }
-.footer-social-link{
-  margin-right: 24px;
+.footer-social-link i{
+  font-size: 1.3em;
+  margin-right: 40px;
   color: rgba(105,105,105,1);
 }
 .footer-link-header{
