@@ -386,73 +386,30 @@ Landing Page FAQs
   <div class="question-answer-div">
     <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
-<<<<<<< HEAD
 How can I send Transactional SMS using Textlocal?
-=======
-How can I send Transactional SMS using Textlocal?     
->>>>>>> origin/master
   </h4>
     <p class="answer">
 Your account will be in promotional route by default. For switching to a transactional account, just drop us an email at support@textlocal.in or call us on 040-3085-8602, we’ll guide you through the remaining process.
     </p>
   </div>
-<<<<<<< HEAD
 
 
-=======
-        
-        
->>>>>>> origin/master
   <!--another question starts here!-->
   <div class="question-answer-div">
     <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
-<<<<<<< HEAD
 What is a Sender ID?
-=======
-What is a Sender ID?     
->>>>>>> origin/master
   </h4>
     <p class="answer">
 Sender ID or Sender name is a 6-character name/number that appears on mobile phones as the sender of an SMS. For transactional SMS you can select a custom sender name of 6 alphabets related to your business Ex: DM-AMAZON. All promotional SMS go with a randomly assigned 6-digit numbers. EX: AM-619923.
     </p>
   </div>
-<<<<<<< HEAD
 
 
-=======
-        
-        
   <!--another question starts here!-->
   <div class="question-answer-div">
     <h4 class="question">
     <i class="fa faq-expand-icon  fa-angle-right "></i>
-How can I get my own Sender ID?     
-  </h4>
-    <p class="answer">
-You can configure a 6-alphabet sender ID of your choice by submitting a letter of consent with your Sender ID mentioned in it.
-    </p>
-  </div>
-        
-        
-  <!--another question starts here!-->
-  <div class="question-answer-div">
-    <h4 class="question">
-    <i class="fa faq-expand-icon  fa-angle-right "></i>
-Does Textlocal provide APIs?     
-  </h4>
-    <p class="answer">
-Yes! Textlocal offers one of the most comprehensive, flexible and powerful APIs. Check out our <a href="http://api.textlocal.in/docs/">SMS API documentation</a>.
-    </p>
-  </div>
-        
-        
->>>>>>> origin/master
-  <!--another question starts here!-->
-  <div class="question-answer-div">
-    <h4 class="question">
-    <i class="fa faq-expand-icon  fa-angle-right "></i>
-<<<<<<< HEAD
 How can I get my own Sender ID?
   </h4>
     <p class="answer">
@@ -480,17 +437,11 @@ Yes! Textlocal offers one of the most comprehensive, flexible and powerful APIs.
 How much does Transactional SMS cost?
   </h4>
     <p class="answer">
-=======
-How much does Transactional SMS cost?     
-  </h4>
-    <p class="answer">
->>>>>>> origin/master
 Textlocal offers very affordable pricing for Transactional SMS. You need to buy SMS bundles that start from as low as Rs. 250 + taxes. Check our Transactional SMS pricing. There are no hidden charges as APIs and Sender ID configuration is completely free of cost.
     </p>
   </div>
   </div><!--faq column ending!-->
 </div>
-
 
 
 <?php include 'include/footer.php';?>
