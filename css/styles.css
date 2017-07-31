@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 /*body section design starts here*/
 /*Global Framework*/
 
@@ -137,7 +137,7 @@ h1,h2,h3,h4,h5{
 .navbar-default{
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: transparent;
+
   text-align: center;
   font-weight: bold;
 }
@@ -180,14 +180,14 @@ h1,h2,h3,h4,h5{
 
 }
 .navbar-brand{
-  color: rgba(255,255,255,1)!important;
+  color: rgba(12, 106, 87, 1)!important;
 
 }
 .navbar-brand img{
   margin-right: 6px;
   height: 36px;
   padding-right: 6px;
-  border-right: 1px solid rgba(255,255,255,.8);
+  border-right: 1px solid rgba(13, 124, 102, 1);
 }
 .sign-up-button {
   font-weight: bold;
@@ -204,10 +204,9 @@ h1,h2,h3,h4,h5{
   background-color: rgba(13, 124, 102, 1);
 }
 header{
-
-  background-image: -webkit-linear-gradient(42deg, #089677 2%, #00BD7F 100%);
+  /*background-image: -webkit-linear-gradient(42deg, #089677 2%, #00BD7F 100%);
   background-image: -o-linear-gradient(42deg, #089677 2%, #00BD7F 100%);
-  background-image: linear-gradient(132deg, #089677 2%, #00BD7F 100%);
+  background-image: linear-gradient(132deg, #089677 2%, #00BD7F 100%);*/
 }
 /*header video container design starts here*/
 .header-video-container{
@@ -228,10 +227,10 @@ header{
   font-size: 3.5em;
   line-height: 1.3em;
   font-weight: 700;
-  color: rgba(255,255,255,1);
+  color: rgba(55,55,55,1);
 }
 .small-header-landing-hero-text{
-  color: rgba(255,255,255,1);
+  color: rgba(72,72,72,1);
   font-size: 1.3em;
 }
 /*Hero Head Typewriter*/
@@ -244,6 +243,8 @@ header{
   border-radius: 2px;
   align-items: center;
   color: white;
+  padding-right:56px;
+  padding-left: 56px;
   background-color: rgba(10, 108, 89, 1);
   transition: all 0.3s ease-in;
   box-shadow: 0 16px 18px 0 rgba(0,0,0,0.13), 0 4px 6px 0 rgba(0,0,0,0.16);
@@ -259,6 +260,39 @@ header{
   color: white;
   background-color: rgba(13, 124, 102, 1);
   transition: all 0.2s ease-in;
+}
+.hero-mobile-column{
+  position: relative;
+}
+.background-style-hero-section{
+  width: 720px;
+  height: 720px;
+  background-color: rgba(13,124,102,1);
+  position:absolute;
+  top: -156px;
+  right: -180px;
+  z-index: -10;
+}
+.background-style-hero-section-2{
+  width: 2px;
+  height: 30px;
+  background-color: rgba(26, 156, 130, 1);
+  position:absolute;
+  top: 100px;
+  left:40px;
+  z-index: -10;
+}
+.background-style-hero-section-3{
+  width: 20px;
+  height: 30px;
+  background-color: rgba(26, 156, 130, 1);
+  position:absolute;
+  top: 300px;
+  left:400px;
+  z-index: -10;
+}
+.hero-mobile-column img{
+  margin-left: 90px;
 }
 .form-control{
   border: 1px solid rgba(45, 196, 161, 1);
@@ -276,14 +310,10 @@ header{
 .hero-input-container{
   margin-top: 24px;
 }
-.jumbotron-container p{
-  margin-top: 12px;
-  color: rgba(255,255,255,1);
-  font-weight: 400;
-}
+
 .hero-input-info-text{
   padding:12px 0;
-  color: rgba(250,250,250,1);
+  color: rgba(96,96,96,1);
 }
 
   /*###Hero Logo Container Designs Here###*/
@@ -741,7 +771,9 @@ FAQs
   background-position: center;
   background-size: cover;
 }
-
+.hero-content p{
+  color: rgba(96,96,96,1);
+}
 .contact-cover-row{
   margin-top:64px;
 }
@@ -974,7 +1006,6 @@ Navbar BG Appear, When Scroll Down
    background: rgba(55,55,55,.0);
    width: 100%;
    height: 72px;
-
    -webkit-transition: all 1s ease-in-out;
 	-moz-transition: all 1s ease-in-out;
 	-o-transition: all 1s ease-in-out;

@@ -14,10 +14,10 @@
           <!--Intro Jumbotron Design Starts Here!-->
 
           <div class="container jumbotron-container">
-              <div class="col-md-12 text-center hero-content">
+              <div class="col-md-7 hero-content">
 
                   <div class="hidden-xs   hidden-sm">
-                      <h1 class="hero-head-text">Get Unmatched Delivery For  <span class="typewrite hero-head-text-typewriter " data-period="3000" data-type='["OTPs", "Alerts","Reminders","Notifications" ]'></span></h1>
+                      <h1 class="hero-head-text">Get Unmatched Delivery <br /> For  <span class="typewrite hero-head-text-typewriter " data-period="3000" data-type='["OTPs", "Alerts","Reminders","Notifications" ]'></span></h1>
                   </div>
                   <div class="visible-xs hidden-md visible-sm hidden-md hidden-lg">
                       <h1 class="hero-head-text">Send Transactional SMS With India's #1 SMS Platform </h1>
@@ -27,37 +27,48 @@
               <div class="hidden-xs hidden-sm">
                   <h1 class="small-header-landing-hero-text">Send Transactional SMS With India's #1 SMS Platform </h1>
               </div>
-                <p class="lead text-center visible-xs hidden-md visible-sm hidden-md hidden-lg">
+                <p class="lead visible-xs hidden-md visible-sm hidden-md hidden-lg">
                    Best-In-Class Delivery. Powerful APIs. Fanatic Customer Support.
                 </p>
 
                 <!--Get Started Input Button Group!-->
-                <div class="row">
-                  <div class="col-lg-12 hero-input-container" >
+
+                  <div class="hero-input-container" >
                     <!--TEMP REMOVE
                      <div class="form-group col-md-6 input-group-lg hero-input-group">
                        <input type="text" class="form-control" placeholder="Enter your email address">
                      </div>!-->
-                     <div class="col-md-4 col-md-offset-4">
-                       <button onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';" class="btn btn-block btn-lg input-get-start-btn cute-btn"><strong>Get Started Now</strong></button>
+                     <div class=" ">
+                       <button onclick="location.href='https://www.textlocal.in/signup?tlrx=transactionalsms.com';" class="btn  btn-lg input-get-start-btn cute-btn"><strong>Get Started Now</strong></button>
+                       <!--TEMP REMOVE
                        <h5 class="hero-input-info-text">
                           Free trial with 10 test credits, no credit card required.
-                       </h5>
+                       </h5>!-->
                      </div>
 
                   </div><!-- /.col-lg-6 -->
 
 
-                </div><!-- /.row -->
+
               </div><!--hero content div ended!-->
+              <div class="col-md-5 hero-mobile-column hidden-sm hidden-xs">
+
+                <img src="asset/images/hero-mobile.png" class="message screen" />
+                <div class=" col-md-4 background-style-hero-section"></div>
+                <div class=" col-md-4 background-style-hero-section-2"></div>
+                <div class=" col-md-4 background-style-hero-section-3"></div>
+              </div>
+
               <!--hero image hidden based on this design
               <div class="col-md-5 hidden-sm hidden-xs hero-girl">
                 <img class="" src="asset/images/hero-girl.png" />
               </div>
               !-->
           </div>
+
           <!--Intro Jumbotron Design Ends Here!-->
   </header>
+
   <!--header design ends here!-->
 
 
