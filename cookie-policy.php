@@ -8,7 +8,7 @@
 <!--Header design starts here!-->
       <header>
         <!--background video design starts here!-->
-      <div class="inner-page-header-container inner-page-resources-header container">
+      <div class="inner-page-header-container inner-page-resources-header container-fluid">
           <div class="row">
             <div class="col-md-8 col-md-offset-2 text-center hero-content">
                 <h1 class="hero-head-text">Cookie Policy</h1>

@@ -156,7 +156,7 @@ h1,h2,h3,h4,h5{
   transition: all 0.3s ease-in;
 }
 .navbar-default .navbar-toggle .icon-bar {
-    background-color:rgba(255,255,255,1);
+    background-color:rgba(12, 106, 87, 1);
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus,
@@ -684,8 +684,12 @@ box-shadow:         0px 0px 5px 0px rgba(0,0,0,0.1);
 .inner-page-header-container{
   padding-top: 164px;
   padding-bottom: 180px;
+  background-color:rgba(0,189,147,1);
 }
-.inner-page-header-container p{
+.inner-page-header-container .hero-content p{
+  color: rgba(255,255,255,1);
+}
+.inner-page-header-container .hero-content .hero-head-text{
   color: rgba(255,255,255,1);
 }
 /*table */
