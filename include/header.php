@@ -36,7 +36,13 @@
 <body>
   <!--Header design starts here!-->
 
+	<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6GCX8B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
   <!--navbar design ends here!-->
+	
 
   <nav class="nav navbar-fixed-top navbar-default ">
     <div class="container">
